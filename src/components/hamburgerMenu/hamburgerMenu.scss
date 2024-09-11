@@ -1,0 +1,69 @@
+$menu-width: 250px;
+$background-color: #333;
+$color: white;
+
+.menu-container {
+    position: relative;
+    
+    .hamburger {
+        font-size: 24px;
+        background: none;
+        border: none;
+        cursor: pointer;
+        padding: 10px;
+        position: fixed;
+        top: 10px;
+        left: 10px;
+        z-index: 1000;
+    }
+
+    .menu {
+        position: fixed;
+        top: 0;
+        left: -$menu-width;
+        height: 100%;
+        width: $menu-width;
+        background-color: $background-color;
+        color: $color;
+        transition: left 0.3s ease;
+
+        &.open {
+            left: 0;
+        }
+
+        .menu-content {
+            display: flex;
+            flex-direction: column;
+            height: 100%;
+            padding: 20px;
+
+            .close-btn {
+                font-size: 36px;
+                background: none;
+                border: none;
+                color: $color;
+                cursor: pointer;
+                align-self: flex-end;
+            }
+
+            ul {
+                list-style: none;
+                padding: 0;
+
+                li {
+                    margin: 15px 0;
+                    font-size: 28px;
+                }
+
+                a {
+                    color: $color;
+                    text-decoration: none;
+
+                    &:hover {
+                        text-decoration: underline;
+                    }
+                }
+            }
+        }
+    }
+}
