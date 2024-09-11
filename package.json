@@ -1,5 +1,6 @@
 {
   "name": "amazon_products",
+  "homepage": "ttps://github.com/themanyouknow/amazon_automotive_products",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -15,7 +16,10 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "develop": "gatsby develop",
+    "build": "gatsby build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d public",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
@@ -38,6 +42,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^6.1.1",
     "react-router-dom": "^6.26.1"
   }
 }
