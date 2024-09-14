@@ -1,6 +1,6 @@
 {
   "name": "amazon_products",
-  "homepage": "https://github.com/themanyouknow/amazon_automotive_products",
+  "homepage": "https://themanyouknow.github.io/amazon_automotive_products",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
