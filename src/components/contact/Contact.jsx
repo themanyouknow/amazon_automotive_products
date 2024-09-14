@@ -1,12 +1,20 @@
 import "./contact.scss";
-import contactImage from '../../images/contact-us-page-1200x801.jpeg';
+import contactImage from "../../images/contact-us-page-1200x801.jpeg";
 
 const Contact = () => {
   return (
     <div className="contact">
-      <span>Phone number: 9167996387 (use phone number ONLY when email does not
-      respond</span>
-      <span>Email:artyomik.arturik@icloud.com)</span>
+      <p>
+        Phone number: <a href="tel: +19167996387">9167996387</a> (use phone
+        number ONLY when email does not respond
+      </p>
+      <span>
+        Email:
+        <a href="mailto: artyomik.arturik@icloud.com">
+          artyomik.arturik@icloud.com
+        </a>
+        )
+      </span>
       <img src={contactImage} alt="" />
     </div>
   );
