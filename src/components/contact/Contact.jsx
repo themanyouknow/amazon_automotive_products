@@ -5,7 +5,7 @@ const Contact = () => {
   return (
     <div className="contact">
       <p>
-        Phone number: <a href="tel: +19167996387">9167996387</a> (use phone
+        Phone number: <a href="tel: +19166342397">(916) 634-2397</a> (use phone
         number ONLY when email does not respond
       </p>
       <span>

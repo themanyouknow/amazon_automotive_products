@@ -101,19 +101,19 @@ export const data = [
     link: "https://amzn.to/4e3wvaA",
   },
   {
-    image: "",
-    title:'',
-    link: "",
+    image: "https://m.media-amazon.com/images/I/710EybKOaRL._AC_SX466_.jpg",
+    title:'NIBBI PE24 Carburetor Kit, 24mm Carburetor with Foam Air Filter- Fit for 140cc 150cc Dirt Bike Pit Bike Apollo TaoTao Lifan Kayo SSR',
+    link: "https://amzn.to/3TG46PF",
   },
   {
-    image: "",
-    title:'',
-    link: "",
+    image: "https://m.media-amazon.com/images/I/615EsPzpZIL._AC_SX466_.jpg",
+    title:'Dirt Bike Grips 7/8” Motorcycle Grips ATV Handlebar Grips Universal for CR125 250 CRF50 80 230 250 TRX450 XR50 70 100 400 CT125 CBR Dirt Pit Bike ATV Enduro Supermoto - Red',
+    link: "https://amzn.to/47H4K4U",
   },
   {
-    image: "",
-    title:'',
-    link: "",
+    image: "https://m.media-amazon.com/images/I/31jJ36Xw1qL._AC_SX466_.jpg",
+    title:'High Performance Big Bore Exhaust Muffler Pipe for Lifan 90cc 125cc 140cc SDG SSR 107 109 125',
+    link: "https://amzn.to/4e6UiGt",
   },
   {
     image: "",
