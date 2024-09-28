@@ -116,13 +116,48 @@ export const data = [
     link: "https://amzn.to/4e6UiGt",
   },
   {
-    image: "",
-    title:'',
-    link: "",
+    image: "https://m.media-amazon.com/images/I/61-tm-Xcc6L._AC_SX679_.jpg",
+    title:'Qualward Spare Tire Mount Bracket for Trailer, Spare Tire Carrier Powder Coat Steel Black, Fits Most 4 & 5 & 6 Lugs Wheels on 4", 4.5'', 4.75'', 5" or 5.5" Bolt Patterns',
+    link: "https://amzn.to/3ZDG1g9",
   },
   {
-    image: "",
-    title:'',
-    link: "",
+    image: "https://m.media-amazon.com/images/I/71Uen-F7UzL._AC_SX679_.jpg",
+    title:'12in x 20ft Boat Trailer Bunk Carpet with Adhesive, Marine Carpet Outdoor Bunk Carpet for Boats Trailer and Jet Ski Ramps Marine Trailer',
+    link: "https://amzn.to/3N3Fah6",
+  },
+  {
+    image: "https://m.media-amazon.com/images/I/61peCwSR--L._AC_SX679_.jpg",
+    title:'VEVOR Boat Trailer Guide, 20"-60" Adjustable Design Trailer Guide Poles, 2PCS Trailer Guides',
+    link: "https://amzn.to/3BqwwHa",
+  },
+  {
+    image: "https://m.media-amazon.com/images/I/71ccUIMWNOL._AC_SX679_.jpg",
+    title:'4 Pcs Boat Plug Snap Plugs T Handle Boat Drain Plug Rubber Plugs with Brass/Stainless Steel Handle Marine Twist Plug Boat Accessories (Brass, 1.25 Inch)',
+    link: "https://amzn.to/3TN9oIW",
+  },
+  {
+    image: "https://m.media-amazon.com/images/I/61lh5zOFHdL._AC_SX679_PIbundle-2,TopRight,0,0_SH20_.jpg",
+    title:'VIVOHOME Folding Low Back Boat Seats 2 Pack, Waterproof Boat Captain Chairs, 4 Mounting Screws Included, White and Red',
+    link: "https://amzn.to/3ZJ8ZeE",
+  },
+  {
+    image: "https://m.media-amazon.com/images/I/61dzxPHaDiL._AC_SX679_.jpg",
+    title:'Heavy Duty Grease Gun Kit - 14oz Free Grease Tube 8000 PSI Pistol High Pressure Flexible Hose Bearing Grease Pump Marine Durable Connectors Adapters Extension Tubes Nozzle Easy Operation',
+    link: "https://amzn.to/4ei6swr",
+  },
+  {
+    image: "https://m.media-amazon.com/images/I/615vAAAguTL._AC_SX679_.jpg",
+    title:'Automatic Submersible Boat Bilge Water Pump 12v 750gph Auto with Float Switch',
+    link: "https://amzn.to/3XX75pf",
+  },
+  {
+    image: "https://m.media-amazon.com/images/I/61Dc2tJSPbL._AC_SX679_.jpg",
+    title:'Attwood Boat Trailer Rubber Bow 3x3 Y-Stop',
+    link: "https://amzn.to/4gWlTMz",
+  },
+  {
+    image: "https://m.media-amazon.com/images/I/713oUWqxH7L._AC_SX679_.jpg",
+    title:'Marinebaby Heavy Duty Boat Telescopic 4 Step Ladder,Stainless Steel Swim Platform Telescoping Ladder,Extendable Step for Boat Yacht',
+    link: "https://amzn.to/3XYmjKL",
   },
 ];
