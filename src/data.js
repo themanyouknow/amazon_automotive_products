@@ -117,7 +117,7 @@ export const data = [
   },
   {
     image: "https://m.media-amazon.com/images/I/61-tm-Xcc6L._AC_SX679_.jpg",
-    title:'Qualward Spare Tire Mount Bracket for Trailer, Spare Tire Carrier Powder Coat Steel Black, Fits Most 4 & 5 & 6 Lugs Wheels on 4", 4.5'', 4.75'', 5" or 5.5" Bolt Patterns',
+    title: `Qualward Spare Tire Mount Bracket for Trailer, Spare Tire Carrier Powder Coat Steel Black, Fits Most 4 & 5 & 6 Lugs Wheels on 4", 4.5'', 4.75'', 5" or 5.5" Bolt Patterns`,
     link: "https://amzn.to/3ZDG1g9",
   },
   {
